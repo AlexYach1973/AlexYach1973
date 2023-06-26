@@ -12,8 +12,11 @@
   <img src="/images/Kotlin.jpg" width="60">&nbsp;
   <img src="/images/AndroidJetpack.png" width="60">&nbsp;
   <img src="/images/Compose.png" width="60">&nbsp;
+  <img src="/images/SQLite.png" width="60">&nbsp
   <img src="/images/room.jpg" width="60">&nbsp
-  <img src="/images/Retrofit.png" width="60">&nbsp;
+  <img src="/images/Retrofit.png" width="120">&nbsp;
+  <img src="/images/dagger.jpeg" width="100">&nbsp
+  <img src="/images/Koin.png" width="60">&nbsp
 </div>
 
 
