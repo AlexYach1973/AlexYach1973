@@ -19,6 +19,8 @@
   <img src="/images/Koin.png" width="60">&nbsp
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexYach1973)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
