@@ -6,7 +6,15 @@
 ## :man_technologist: About Me:
 ### <img src="/images/developer.jpg" width="30"> I am an Android Developer 
 ### 🛠️: Languages and Tools: 
-
+<div>
+  <img src="/images/AndroidStudio.jpg" width="60">&nbsp;
+  <img src="/images/Java2.png" width="60">&nbsp;
+  <img src="/images/Kotlin.jpg" width="60">&nbsp;
+  <img src="/images/AndroidJetpack.png" width="60">&nbsp;
+  <img src="/images/Compose.png" width="60">&nbsp;
+  <img src="/images/room.jpg" width="60">&nbsp
+  <img src="/images/Retrofit.png" width="60">&nbsp;
+</div>
 
 
 
