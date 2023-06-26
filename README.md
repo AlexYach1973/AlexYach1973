@@ -1,14 +1,18 @@
-### Hi there 👋
 
-![](/images/header.jpg)
----
+<h1 align="center">
+<img src="/images/header.jpg" align="center">
+</h1>
 
-I am an Android Developer 
-![](/images/developer.jpg)
+## :man_technologist: About Me:
+### <img src="/images/developer.jpg" width="30"> I am an Android Developer 
+### 🛠️: Languages and Tools: 
+
+
+
 
 <!--
 **AlexYach1973/AlexYach1973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
