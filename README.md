@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![](/images/header.jpg)
+---
+
+I am an Android Developer 
+![](/images/developer.jpg)
+
 <!--
 **AlexYach1973/AlexYach1973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
